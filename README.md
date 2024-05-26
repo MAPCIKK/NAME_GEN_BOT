@@ -22,4 +22,4 @@
 
 - [Telegram](https://t.me/MAPPPC)  (разработчик взаимодейтсивя с GPT)
 - [Telegram](https://t.me/moreseojuplease)   (Фронтенд разработчик, внешний вид и презентация бота)
-- [Telegram]()
+- [Telegram](https://t.me/fuwunya)   (разработчик логики бота и взаимодействия с пользователем)
